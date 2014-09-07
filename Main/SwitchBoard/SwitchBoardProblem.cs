@@ -22,7 +22,7 @@ namespace Main.SwitchBoard
         /// Codility Score 100%
         /// Result Link: https://codility.com/demo/results/demoZQ8E4D-BWK/
         /// </summary>
-        #endregion
+        /// 
         private struct Node
         {
             public Node(int d, int r, int bIn)
@@ -90,6 +90,8 @@ namespace Main.SwitchBoard
 
             return list[i - 1][j].sendsDown + list[i][j - 1].sendsRight;
         }
+        #endregion
+        
 
         #region Initial Solution
         /// <summary>
