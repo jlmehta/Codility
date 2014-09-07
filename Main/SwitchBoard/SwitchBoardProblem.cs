@@ -10,7 +10,15 @@ namespace Main.SwitchBoard
     {
         #region First Correct Solution
         /// <summary>
-        /// First correct solution with acceptable performance
+        /// First correct solution with acceptable performance.
+        /// This solution computes the state for all the switches as per the number of balls 
+        /// State is defined as 
+        ///  - Number of balls coming into the switch
+        ///  - Number of balls switch sends through the right side
+        ///  - Number of balls switch sends through the bottom side
+        /// At the end it return the balls the bottom-right swtich sends through the bottom
+        /// Time Complexity: O(M*N) 
+        /// Space Complexity: O(M*N)
         /// Codility Score 100%
         /// Result Link: https://codility.com/demo/results/demoZQ8E4D-BWK/
         /// </summary>
