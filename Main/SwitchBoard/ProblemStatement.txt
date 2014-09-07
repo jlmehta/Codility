@@ -1,4 +1,4 @@
-﻿Given a switch board (2d array of switches), every wwitch can have 3 possible values: -1, 0 or +1
+﻿Given a switch board (2d array of switches), every which can have 3 possible values: -1, 0 or +1
 
 If the value is 0, the ball passes through withoout changing its direction.
 If the value is -1, the ball leaves through the bottom side. 
