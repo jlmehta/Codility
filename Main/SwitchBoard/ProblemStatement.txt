@@ -1,0 +1,9 @@
+﻿Given a switch board, Every Switch can have 3 possible values: -1, 0 or +1
+
+If the value is 0, the ball passes through withoout changing its direction.
+If the value is -1, the ball leaves through the bottom side. 
+If the value is +1, the ball leaves through the right side.
+Each time a ball passes through a cell, the value is negated.
+All balls enter the board from the top side of the first (0,0) switch.
+
+If k balls enter the board, compute how many pass through the switchboard from the bottom of the bottom-right switch?
