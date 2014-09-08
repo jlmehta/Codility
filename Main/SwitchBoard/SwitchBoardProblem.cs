@@ -92,7 +92,6 @@ namespace Main.SwitchBoard
         }
         #endregion
         
-
         #region Initial Solution
         /// <summary>
         /// Basically Simulates the traversal of all the balls, not efficient, O((M+N)*K)
@@ -154,6 +153,5 @@ namespace Main.SwitchBoard
                 return direction.DOWN;
         }
         #endregion
-        
     }
 }
