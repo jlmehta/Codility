@@ -1,0 +1,4 @@
+﻿Given an Array of N different integers within the range (1 - N+1), find the one missing number
+
+Example
+For example, given the following array [ 1, 2, 3, 5 ] should return 4
