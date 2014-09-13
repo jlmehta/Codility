@@ -1,0 +1,5 @@
+﻿Given an Array of N integers within the range [−2,147,483,648..2,147,483,647], 
+find the minimum possible non negative number missing from the array
+
+Example
+For example, given the following array [ 1, 2, 3, 6, 4 ] should return 5

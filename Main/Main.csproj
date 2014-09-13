@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FirstCoveringPrefix\FirstCoveringPrefixProblem.cs" />
+    <Compile Include="MinMissingInteger\MinMissingIntegerProblem.cs" />
     <Compile Include="MissingInteger\MissingIntegerProblem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -52,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="FirstCoveringPrefix\ProblemStatement.txt" />
+    <Content Include="MinMissingInteger\ProblemStatement.txt" />
     <Content Include="MissingInteger\ProblemStatement.txt" />
     <Content Include="SwitchBoard\ProblemStatement.txt" />
   </ItemGroup>
