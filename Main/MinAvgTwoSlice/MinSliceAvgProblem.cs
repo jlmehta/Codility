@@ -16,7 +16,7 @@ namespace Main.MinAvgTwoSlice
         ///   And by definition all those slices will be minimum average too, if not the initial hypothesis fails
         /// - if the slice has even number of elements, it can be broken into a combination of 2 element slices.
         ///   And again by definition all those slices will be minimum average too, if not the initial hypothesis fails
-        ///   
+        /// Note: it is possible to solve this without using prefix sums too.
         /// Time Complexity: O(N) 
         /// Space Complexity: O(N)
         /// Codility Score 100%
