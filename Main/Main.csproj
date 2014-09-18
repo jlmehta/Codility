@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="FirstCoveringPrefix\FirstCoveringPrefixProblem.cs" />
     <Compile Include="GenomicRangeQuery\DNAImpactQueryProblem.cs" />
+    <Compile Include="MinAvgTwoSlice\MinSliceAvgProblem.cs" />
     <Compile Include="MinMissingInteger\MinMissingIntegerProblem.cs" />
     <Compile Include="MissingInteger\MissingIntegerProblem.cs" />
     <Compile Include="Program.cs" />
@@ -55,6 +56,7 @@
   <ItemGroup>
     <Content Include="FirstCoveringPrefix\ProblemStatement.txt" />
     <Content Include="GenomicRangeQuery\ProblemStatement.txt" />
+    <Content Include="MinAvgTwoSlice\ProblemStatement.txt" />
     <Content Include="MinMissingInteger\ProblemStatement.txt" />
     <Content Include="MissingInteger\ProblemStatement.txt" />
     <Content Include="SwitchBoard\ProblemStatement.txt" />

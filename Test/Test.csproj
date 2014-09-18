@@ -45,6 +45,7 @@
     <Compile Include="DNAImpactQueryTest.cs" />
     <Compile Include="FirstCoveringPrefixTest.cs" />
     <Compile Include="MinMissingIntegerTest.cs" />
+    <Compile Include="MinSliceAvgTest.cs" />
     <Compile Include="MissingIntegerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SwitchBoardTest.cs" />

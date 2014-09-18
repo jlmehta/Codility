@@ -1,0 +1,5 @@
+﻿Given an array on N elements, find the start index of the slice with indexes P and Q of the array such that 
+the average of the elements of that slice is minimum, given 0 <= P < Q < N 
+
+For Eg given the array [ 4, 2, 2, 5, 1, 5, 8 ], the slice [2,2] has the minimum average across all possible slices. 
+Therefore the function should return 1 i.e. index of the first 2 in the array.
