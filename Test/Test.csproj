@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DNAImpactQueryTest.cs" />
     <Compile Include="FirstCoveringPrefixTest.cs" />
     <Compile Include="MinMissingIntegerTest.cs" />
     <Compile Include="MissingIntegerTest.cs" />

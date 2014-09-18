@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FirstCoveringPrefix\FirstCoveringPrefixProblem.cs" />
+    <Compile Include="GenomicRangeQuery\DNAImpactQueryProblem.cs" />
     <Compile Include="MinMissingInteger\MinMissingIntegerProblem.cs" />
     <Compile Include="MissingInteger\MissingIntegerProblem.cs" />
     <Compile Include="Program.cs" />
