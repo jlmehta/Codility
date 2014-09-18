@@ -8,6 +8,12 @@ namespace Main.GenomicRangeQuery
 {
     public class DNAImpactQueryProblem
     {
+        /// This solution creates an array of prefix sum for each nucleotide and uses it to calculate the impact factor 
+        /// Time Complexity: O(N+M) 
+        /// Space Complexity: O(N)
+        /// Codility Score 100%
+        /// Result Link: https://codility.com/demo/results/demoBAVQZ5-AN6/
+        /// 
         public int[] Solution(string s, int[] p, int[] q)
         {
             short a, c, g;
